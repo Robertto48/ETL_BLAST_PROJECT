@@ -1,5 +1,7 @@
 # ETL Pipeline – Rice BLAST (CIAT) | GTD -  VIs (Pheno-i)
 
+![explicacion_pipeline](explicacion_pipeline.jpeg)
+
 ## 1) Propósito del repositorio
 Este repositorio contiene un **pipeline ETL en Python** diseñado para integrar datos experimentales del estudio de la enfermedad **Rice Blast** en arroz, combinando:
 
