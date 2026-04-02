@@ -1,0 +1,2 @@
+data/db/*.db
+data/processed/processed/blast_observations.csv

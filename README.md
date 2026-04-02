@@ -4,7 +4,7 @@
 
 A continuación, se muestra el diagrama de flujo desarrollado para el pipeline de ETL.
 
-![explicacion_pipeline](explicacion_pipeline.jpeg)
+![explicacion_pipeline](docs/explicacion_pipeline.jpeg)
 
 ## Dashboard Power BI
 
@@ -254,4 +254,6 @@ CSVs por asociación en `data/processed/processed/`
 SQLite DB en `data/db/blast_etl.db`
 reportes en `data/reports/` (auditorías, OKR, KPI, data quality)
 
+## 8) Autorización y manejo de datos
 
+La Alliance of Bioversity International and CIAT, en su calidad de titular, responsable o legítimo administrador de la información y los datos que sean cargados, almacenados, compartidos o gestionados en el repositorio correspondiente, autoriza expresamente el tratamiento de dichos datos, de conformidad con las finalidades institucionales, administrativas, técnicas, científicas, académicas y de gestión del conocimiento que resulten aplicables.
