@@ -1,0 +1,6 @@
+year_folder,gtd_file,vis_file,match_score,status
+data_2023,GTD_Block_1_CIAT_2023_corregido.xlsx,VIS_Block_1_CIAT_2023_corregido.csv,1.0,PAIRED
+data_2023,GTD_Block_2_CIAT_2023.xlsx,VIS_Block_2_CIAT_2023.xlsx,1.0,PAIRED
+data_2023,GTD_Block_3_CIAT_2023.xlsx,VIS_Block_3_CIAT_2023.xlsx,1.0,PAIRED
+data_2023,GTD_Block_4_CIAT_2023_corregido.xlsx,VIS_Block_4_CIAT_2023.xlsx,0.8,PAIRED
+data_2023,GTD_Field_7_FLAR_2023.xlsx,VIS_Field_7_FLAR_2023.xlsx,1.0,PAIRED
