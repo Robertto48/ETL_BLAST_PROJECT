@@ -1,6 +1,16 @@
 # ETL Pipeline – Rice BLAST (CIAT) | GTD -  VIs (Pheno-i)
 
+## Diagrama de flujo del pipeline ETL
+
+A continuación, se muestra el diagrama de flujo desarrollado para el pipeline de ETL.
+
 ![explicacion_pipeline](explicacion_pipeline.jpeg)
+
+## Dashboard Power BI
+
+Una vez se termine el proceso de ETL de este repositorio, por medio de un dashboard desarrollado en Power BI, se realiza la visualizacion de los datos de salida, para así ser usados para analisis posteriores.
+
+![dahsboard1](power_bi/dahsboard1.png)
 
 ## 1) Propósito del repositorio
 Este repositorio contiene un **pipeline ETL en Python** diseñado para integrar datos experimentales del estudio de la enfermedad **Rice Blast** en arroz, combinando:
